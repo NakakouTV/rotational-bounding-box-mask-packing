@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><body style="margin:0"><canvas id="stage" width="480" height="360"></canvas><script src="../ライブラリ/scratch-render.js"></script><script>
+const r=new ScratchRender(document.getElementById('stage'));r.setLayerGroupOrdering(['sprite']);
+window.reference=async(svg,origin,item,scale)=>{
+  const skin=r.createSVGSkin(svg,origin),d=r.createDrawable('sprite');r.updateDrawableSkinId(d,skin);
+  await new Promise(resolve=>setTimeout(resolve,100));
+  r.updateDrawableDirectionScale(d,item.direction,[scale*100,scale*100]);r.updateDrawablePosition(d,[-item.offsetX,-item.offsetY]);r.draw();
+  window.clean=()=>{r.destroyDrawable(d,'sprite');r.destroySkin(skin)};
+};</script>

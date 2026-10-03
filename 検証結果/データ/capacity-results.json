@@ -1,0 +1,252 @@
+{
+  "model": "square glyphs; lower half atlas; fixed radius .395, 2px clearance at scale600 on .25 degree grid; optimized: 33px display glyphs, 2px clearance, radius .300 to .495 step .005 on .5 degree grid",
+  "rows": [
+    {
+      "side": 0.055,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 3,
+      "angles": [
+        24.5,
+        44.75,
+        70.75
+      ],
+      "textureGlyphPixels": 56.32
+    },
+    {
+      "side": 0.046875,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 3,
+      "angles": [
+        22.75,
+        43.75,
+        74.25
+      ],
+      "textureGlyphPixels": 48.0
+    },
+    {
+      "side": 0.0390625,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 3,
+      "angles": [
+        23.5,
+        43.0,
+        76.25
+      ],
+      "textureGlyphPixels": 40.0
+    },
+    {
+      "side": 0.03125,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 3,
+      "angles": [
+        23.75,
+        42.25,
+        78.0
+      ],
+      "textureGlyphPixels": 32.0
+    },
+    {
+      "side": 0.0234375,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 3,
+      "angles": [
+        22.5,
+        41.25,
+        79.5
+      ],
+      "textureGlyphPixels": 24.0
+    },
+    {
+      "side": 0.015625,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 4,
+      "angles": [
+        20.5,
+        40.25,
+        49.5,
+        72.0
+      ],
+      "textureGlyphPixels": 16.0
+    },
+    {
+      "side": 0.0078125,
+      "radius": 0.395,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.25,
+      "count": 4,
+      "angles": [
+        21.5,
+        39.5,
+        48.5,
+        76.25
+      ],
+      "textureGlyphPixels": 8.0
+    }
+  ],
+  "optimized": [
+    {
+      "side": 0.055,
+      "radius": 0.425,
+      "margin": 0.0033333333333333335,
+      "stepDegrees": 0.5,
+      "count": 4,
+      "angles": [
+        25.5,
+        40.5,
+        49.5,
+        65.5
+      ],
+      "textureGlyphPixels": 56.32,
+      "displayGlyphPixels": 33,
+      "displayScale": 600.0
+    },
+    {
+      "side": 0.046875,
+      "radius": 0.42,
+      "margin": 0.002840909090909091,
+      "stepDegrees": 0.5,
+      "count": 4,
+      "angles": [
+        28.0,
+        41.5,
+        50.5,
+        70.5
+      ],
+      "textureGlyphPixels": 48.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 704.0
+    },
+    {
+      "side": 0.0390625,
+      "radius": 0.43,
+      "margin": 0.0023674242424242425,
+      "stepDegrees": 0.5,
+      "count": 5,
+      "angles": [
+        20.5,
+        36.5,
+        45.0,
+        53.5,
+        71.5
+      ],
+      "textureGlyphPixels": 40.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 844.8
+    },
+    {
+      "side": 0.03125,
+      "radius": 0.45,
+      "margin": 0.001893939393939394,
+      "stepDegrees": 0.5,
+      "count": 7,
+      "angles": [
+        21.5,
+        32.5,
+        39.5,
+        45.0,
+        50.5,
+        57.5,
+        69.0
+      ],
+      "textureGlyphPixels": 32.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 1056.0
+    },
+    {
+      "side": 0.0234375,
+      "radius": 0.46,
+      "margin": 0.0014204545454545455,
+      "stepDegrees": 0.5,
+      "count": 9,
+      "angles": [
+        20.5,
+        29.5,
+        35.5,
+        40.5,
+        45.0,
+        49.5,
+        54.5,
+        61.0,
+        70.5
+      ],
+      "textureGlyphPixels": 24.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 1408.0
+    },
+    {
+      "side": 0.015625,
+      "radius": 0.48,
+      "margin": 0.000946969696969697,
+      "stepDegrees": 0.5,
+      "count": 14,
+      "angles": [
+        26.0,
+        30.0,
+        33.5,
+        36.5,
+        39.0,
+        41.5,
+        44.0,
+        46.0,
+        48.5,
+        51.0,
+        53.5,
+        56.5,
+        60.0,
+        64.0
+      ],
+      "textureGlyphPixels": 16.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 2112.0
+    },
+    {
+      "side": 0.0078125,
+      "radius": 0.485,
+      "margin": 0.0004734848484848485,
+      "stepDegrees": 0.5,
+      "count": 25,
+      "angles": [
+        19.5,
+        23.0,
+        26.0,
+        28.5,
+        31.0,
+        33.0,
+        35.0,
+        37.0,
+        39.0,
+        40.5,
+        42.0,
+        43.5,
+        45.0,
+        46.5,
+        48.0,
+        49.5,
+        51.5,
+        53.5,
+        55.5,
+        57.5,
+        60.0,
+        62.5,
+        65.5,
+        69.0,
+        73.0
+      ],
+      "textureGlyphPixels": 8.0,
+      "displayGlyphPixels": 33,
+      "displayScale": 4224.0
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "width": 16,
+  "height": 8,
+  "textureGlyphPixels": 28.16,
+  "scale": 150.0,
+  "chars": "日本語文字画像表示実験大小上下左右天地山川森林水火木金土月星空",
+  "items": [
+    {
+      "char": "日",
+      "index": 1,
+      "phi": 9.1,
+      "direction": 80.9,
+      "offsetX": 1092.3405325947754,
+      "offsetY": -159.42782566129398,
+      "targetX": -160,
+      "targetY": 45
+    },
+    {
+      "char": "本",
+      "index": 2,
+      "phi": 15.700000000000001,
+      "direction": 74.3,
+      "offsetX": 1064.5282147297887,
+      "offsetY": -285.92550172284666,
+      "targetX": -115,
+      "targetY": 45
+    },
+    {
+      "char": "語",
+      "index": 3,
+      "phi": 19.400000000000002,
+      "direction": 70.6,
+      "offsetX": 1042.625490191051,
+      "offsetY": -355.18127336916615,
+      "targetX": -70,
+      "targetY": 45
+    },
+    {
+      "char": "文",
+      "index": 4,
+      "phi": 22.400000000000002,
+      "direction": 67.6,
+      "offsetX": 1021.6142878138523,
+      "offsetY": -410.20417339405844,
+      "targetX": -25,
+      "targetY": 45
+    },
+    {
+      "char": "字",
+      "index": 5,
+      "phi": 25.0,
+      "direction": 65.0,
+      "offsetX": 1001.0962604162312,
+      "offsetY": -456.94554445828686,
+      "targetX": 20,
+      "targetY": 45
+    },
+    {
+      "char": "画",
+      "index": 6,
+      "phi": 27.400000000000002,
+      "direction": 62.599999999999994,
+      "offsetX": 980.2923082784516,
+      "offsetY": -499.2247578818331,
+      "targetX": 65,
+      "targetY": 45
+    },
+    {
+      "char": "像",
+      "index": 7,
+      "phi": 29.6,
+      "direction": 60.4,
+      "offsetX": 959.6817956933714,
+      "offsetY": -537.1845999072598,
+      "targetX": 110,
+      "targetY": 45
+    },
+    {
+      "char": "表",
+      "index": 8,
+      "phi": 31.6,
+      "direction": 58.4,
+      "offsetX": 939.6928009109287,
+      "offsetY": -570.984144216339,
+      "targetX": 155,
+      "targetY": 45
+    },
+    {
+      "char": "示",
+      "index": 9,
+      "phi": 33.5,
+      "direction": 56.5,
+      "offsetX": 919.6215498255642,
+      "offsetY": -602.4291084760655,
+      "targetX": -160,
+      "targetY": -45
+    },
+    {
+      "char": "実",
+      "index": 10,
+      "phi": 35.300000000000004,
+      "direction": 54.699999999999996,
+      "offsetX": 899.6547888401802,
+      "offsetY": -631.5898274314438,
+      "targetX": -115,
+      "targetY": -45
+    },
+    {
+      "char": "験",
+      "index": 11,
+      "phi": 37.0,
+      "direction": 53.0,
+      "offsetX": 879.9649488032044,
+      "offsetY": -658.5419010460544,
+      "targetX": -70,
+      "targetY": -45
+    },
+    {
+      "char": "大",
+      "index": 12,
+      "phi": 38.7,
+      "direction": 51.3,
+      "offsetX": 859.484208255621,
+      "offsetY": -684.8979883776683,
+      "targetX": -25,
+      "targetY": -45
+    },
+    {
+      "char": "小",
+      "index": 13,
+      "phi": 40.300000000000004,
+      "direction": 49.699999999999996,
+      "offsetX": 839.5018709076494,
+      "offsetY": -709.138501949267,
+      "targetX": 20,
+      "targetY": -45
+    },
+    {
+      "char": "上",
+      "index": 14,
+      "phi": 41.800000000000004,
+      "direction": 48.199999999999996,
+      "offsetX": 820.1604996432197,
+      "offsetY": -731.3490290306343,
+      "targetX": 65,
+      "targetY": -45
+    },
+    {
+      "char": "下",
+      "index": 15,
+      "phi": 43.300000000000004,
+      "direction": 46.699999999999996,
+      "offsetX": 800.2443523643619,
+      "offsetY": -753.0456470432983,
+      "targetX": 110,
+      "targetY": -45
+    },
+    {
+      "char": "左",
+      "index": 16,
+      "phi": 44.800000000000004,
+      "direction": 45.199999999999996,
+      "offsetX": 779.7670786035862,
+      "offsetY": -774.2134862090442,
+      "targetX": 155,
+      "targetY": -45
+    },
+    {
+      "char": "右",
+      "index": 17,
+      "phi": 46.2,
+      "direction": 43.8,
+      "offsetX": 760.1610706042077,
+      "offsetY": -793.4802566106574,
+      "targetX": -160,
+      "targetY": -135
+    },
+    {
+      "char": "天",
+      "index": 18,
+      "phi": 47.7,
+      "direction": 42.3,
+      "offsetX": 738.639077698495,
+      "offsetY": -813.584981850936,
+      "targetX": -115,
+      "targetY": -135
+    },
+    {
+      "char": "地",
+      "index": 19,
+      "phi": 49.2,
+      "direction": 40.8,
+      "offsetX": 716.5981794888686,
+      "offsetY": -833.1194376082262,
+      "targetX": -70,
+      "targetY": -135
+    },
+    {
+      "char": "山",
+      "index": 20,
+      "phi": 50.800000000000004,
+      "direction": 39.199999999999996,
+      "offsetX": 692.5329654979571,
+      "offsetY": -853.3125497922022,
+      "targetX": -25,
+      "targetY": -135
+    },
+    {
+      "char": "川",
+      "index": 21,
+      "phi": 52.400000000000006,
+      "direction": 37.599999999999994,
+      "offsetX": 667.9133093889261,
+      "offsetY": -872.8258487745896,
+      "targetX": 20,
+      "targetY": -135
+    },
+    {
+      "char": "森",
+      "index": 22,
+      "phi": 54.1,
+      "direction": 35.9,
+      "offsetX": 641.168901327763,
+      "offsetY": -892.7968455015206,
+      "targetX": 65,
+      "targetY": -135
+    },
+    {
+      "char": "林",
+      "index": 23,
+      "phi": 55.900000000000006,
+      "direction": 34.099999999999994,
+      "offsetX": 612.2188688836469,
+      "offsetY": -913.0678764503064,
+      "targetX": 110,
+      "targetY": -135
+    },
+    {
+      "char": "水",
+      "index": 24,
+      "phi": 57.800000000000004,
+      "direction": 32.199999999999996,
+      "offsetX": 580.9858105795712,
+      "offsetY": -933.4673118935095,
+      "targetX": 155,
+      "targetY": -135
+    },
+    {
+      "char": "火",
+      "index": 25,
+      "phi": 59.800000000000004,
+      "direction": 30.199999999999996,
+      "offsetX": 547.3974399590144,
+      "offsetY": -953.8091521979179,
+      "targetX": -160,
+      "targetY": -225
+    },
+    {
+      "char": "木",
+      "index": 26,
+      "phi": 61.900000000000006,
+      "direction": 28.099999999999994,
+      "offsetX": 511.388366371836,
+      "offsetY": -973.8927242698762,
+      "targetX": -115,
+      "targetY": -225
+    },
+    {
+      "char": "金",
+      "index": 27,
+      "phi": 64.2,
+      "direction": 25.799999999999997,
+      "offsetX": 471.13498679386845,
+      "offsetY": -994.3586178274676,
+      "targetX": -70,
+      "targetY": -225
+    },
+    {
+      "char": "土",
+      "index": 28,
+      "phi": 66.7,
+      "direction": 23.299999999999997,
+      "offsetX": 426.4886903833357,
+      "offsetY": -1014.7521790109731,
+      "targetX": -25,
+      "targetY": -225
+    },
+    {
+      "char": "月",
+      "index": 29,
+      "phi": 69.60000000000001,
+      "direction": 20.39999999999999,
+      "offsetX": 373.64355323704206,
+      "offsetY": -1035.9422381783781,
+      "targetX": 20,
+      "targetY": -225
+    },
+    {
+      "char": "星",
+      "index": 30,
+      "phi": 73.10000000000001,
+      "direction": 16.89999999999999,
+      "offsetX": 308.53996779803384,
+      "offsetY": -1057.9152820648083,
+      "targetX": 65,
+      "targetY": -225
+    },
+    {
+      "char": "空",
+      "index": 31,
+      "phi": 84.30000000000001,
+      "direction": 5.699999999999989,
+      "offsetX": 93.23471846159377,
+      "offsetY": -1100.9375162063798,
+      "targetX": 110,
+      "targetY": -225
+    }
+  ],
+  "output": "SVG文字パッキング31文字_16x8.sb3",
+  "origin": [
+    8.0,
+    0.5
+  ],
+  "endpoints": [
+    [
+      0,
+      0
+    ],
+    [
+      15,
+      0
+    ]
+  ],
+  "marginPixels": 2,
+  "renderer": {
+    "procedure": "画像を描画 %s x %s y %s",
+    "argumentIds": [
+      "image_id_argument",
+      "image_x_argument",
+      "image_y_argument"
+    ],
+    "lists": [
+      "画像ID",
+      "描画X補正",
+      "描画Y補正",
+      "描画方向",
+      "描画サイズ",
+      "描画コスチューム"
+    ],
+    "boundsTrigger": "touching-edge"
+  }
+}

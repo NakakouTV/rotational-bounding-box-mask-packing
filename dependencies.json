@@ -1,0 +1,20 @@
+{
+  "scratch-render": {
+    "version": "2.2.84",
+    "url": "https://unpkg.com/scratch-render@2.2.84/dist/web/scratch-render.js",
+    "sha256": "fba1958d3d3d992c9dc1f9e06b7d1ed0500f386508ccf23aeaf27390bc02a688",
+    "license": "AGPL-3.0-only"
+  },
+  "scratch-vm": {
+    "version": "5.0.300",
+    "url": "https://unpkg.com/scratch-vm@5.0.300/dist/web/scratch-vm.js",
+    "sha256": "749129c753a9d6fd48ecbcde879caddda74f97dbd226607307c6c2d5a5b0d9fa",
+    "license": "AGPL-3.0-only"
+  },
+  "scratch-storage": {
+    "version": "6.2.1",
+    "url": "https://unpkg.com/scratch-storage@6.2.1/dist/web/scratch-storage.js",
+    "sha256": "4fd168a2b4fa0e11e6d3f9ab0b4f72b1751fb9d1e7df0bca02f4ed7871e87f22",
+    "license": "AGPL-3.0-only"
+  }
+}

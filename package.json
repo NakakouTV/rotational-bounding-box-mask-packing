@@ -1,0 +1,7 @@
+{
+  "name": "rotational-bounding-box-mask-packing",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RBMP generation and official Scratch runtime verification",
+  "devDependencies": {"playwright": "1.62.1"}
+}

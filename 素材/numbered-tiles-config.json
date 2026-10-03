@@ -1,0 +1,353 @@
+{
+  "width": 16,
+  "height": 8,
+  "textureGlyphPixels": 28.16,
+  "scale": 300.0,
+  "chars": "日本語文字画像表示実験大小上下左右天地山川森林水火木金土月星空",
+  "items": [
+    {
+      "char": "1",
+      "index": 1,
+      "phi": 9.1,
+      "direction": 80.9,
+      "offsetX": 2184.6810651895507,
+      "offsetY": -318.85565132258796,
+      "targetX": -160,
+      "targetY": 45
+    },
+    {
+      "char": "2",
+      "index": 2,
+      "phi": 15.700000000000001,
+      "direction": 74.3,
+      "offsetX": 2129.0564294595774,
+      "offsetY": -571.8510034456933,
+      "targetX": -115,
+      "targetY": 45
+    },
+    {
+      "char": "3",
+      "index": 3,
+      "phi": 19.400000000000002,
+      "direction": 70.6,
+      "offsetX": 2085.250980382102,
+      "offsetY": -710.3625467383323,
+      "targetX": -70,
+      "targetY": 45
+    },
+    {
+      "char": "4",
+      "index": 4,
+      "phi": 22.400000000000002,
+      "direction": 67.6,
+      "offsetX": 2043.228575627705,
+      "offsetY": -820.4083467881169,
+      "targetX": -25,
+      "targetY": 45
+    },
+    {
+      "char": "5",
+      "index": 5,
+      "phi": 25.0,
+      "direction": 65.0,
+      "offsetX": 2002.1925208324624,
+      "offsetY": -913.8910889165738,
+      "targetX": 20,
+      "targetY": 45
+    },
+    {
+      "char": "6",
+      "index": 6,
+      "phi": 27.400000000000002,
+      "direction": 62.599999999999994,
+      "offsetX": 1960.5846165569033,
+      "offsetY": -998.4495157636661,
+      "targetX": 65,
+      "targetY": 45
+    },
+    {
+      "char": "7",
+      "index": 7,
+      "phi": 29.6,
+      "direction": 60.4,
+      "offsetX": 1919.3635913867429,
+      "offsetY": -1074.3691998145196,
+      "targetX": 110,
+      "targetY": 45
+    },
+    {
+      "char": "8",
+      "index": 8,
+      "phi": 31.6,
+      "direction": 58.4,
+      "offsetX": 1879.3856018218573,
+      "offsetY": -1141.968288432678,
+      "targetX": 155,
+      "targetY": 45
+    },
+    {
+      "char": "9",
+      "index": 9,
+      "phi": 33.5,
+      "direction": 56.5,
+      "offsetX": 1839.2430996511282,
+      "offsetY": -1204.858216952131,
+      "targetX": -160,
+      "targetY": -45
+    },
+    {
+      "char": "10",
+      "index": 10,
+      "phi": 35.300000000000004,
+      "direction": 54.699999999999996,
+      "offsetX": 1799.3095776803605,
+      "offsetY": -1263.1796548628877,
+      "targetX": -115,
+      "targetY": -45
+    },
+    {
+      "char": "11",
+      "index": 11,
+      "phi": 37.0,
+      "direction": 53.0,
+      "offsetX": 1759.929897606409,
+      "offsetY": -1317.0838020921087,
+      "targetX": -70,
+      "targetY": -45
+    },
+    {
+      "char": "12",
+      "index": 12,
+      "phi": 38.7,
+      "direction": 51.3,
+      "offsetX": 1718.968416511242,
+      "offsetY": -1369.7959767553366,
+      "targetX": -25,
+      "targetY": -45
+    },
+    {
+      "char": "13",
+      "index": 13,
+      "phi": 40.300000000000004,
+      "direction": 49.699999999999996,
+      "offsetX": 1679.0037418152988,
+      "offsetY": -1418.277003898534,
+      "targetX": 20,
+      "targetY": -45
+    },
+    {
+      "char": "14",
+      "index": 14,
+      "phi": 41.800000000000004,
+      "direction": 48.199999999999996,
+      "offsetX": 1640.3209992864395,
+      "offsetY": -1462.6980580612685,
+      "targetX": 65,
+      "targetY": -45
+    },
+    {
+      "char": "15",
+      "index": 15,
+      "phi": 43.300000000000004,
+      "direction": 46.699999999999996,
+      "offsetX": 1600.4887047287239,
+      "offsetY": -1506.0912940865967,
+      "targetX": 110,
+      "targetY": -45
+    },
+    {
+      "char": "16",
+      "index": 16,
+      "phi": 44.800000000000004,
+      "direction": 45.199999999999996,
+      "offsetX": 1559.5341572071725,
+      "offsetY": -1548.4269724180883,
+      "targetX": 155,
+      "targetY": -45
+    },
+    {
+      "char": "17",
+      "index": 17,
+      "phi": 46.2,
+      "direction": 43.8,
+      "offsetX": 1520.3221412084154,
+      "offsetY": -1586.9605132213148,
+      "targetX": -160,
+      "targetY": -135
+    },
+    {
+      "char": "18",
+      "index": 18,
+      "phi": 47.7,
+      "direction": 42.3,
+      "offsetX": 1477.27815539699,
+      "offsetY": -1627.169963701872,
+      "targetX": -115,
+      "targetY": -135
+    },
+    {
+      "char": "19",
+      "index": 19,
+      "phi": 49.2,
+      "direction": 40.8,
+      "offsetX": 1433.1963589777372,
+      "offsetY": -1666.2388752164525,
+      "targetX": -70,
+      "targetY": -135
+    },
+    {
+      "char": "20",
+      "index": 20,
+      "phi": 50.800000000000004,
+      "direction": 39.199999999999996,
+      "offsetX": 1385.0659309959142,
+      "offsetY": -1706.6250995844043,
+      "targetX": -25,
+      "targetY": -135
+    },
+    {
+      "char": "21",
+      "index": 21,
+      "phi": 52.400000000000006,
+      "direction": 37.599999999999994,
+      "offsetX": 1335.8266187778522,
+      "offsetY": -1745.6516975491793,
+      "targetX": 20,
+      "targetY": -135
+    },
+    {
+      "char": "22",
+      "index": 22,
+      "phi": 54.1,
+      "direction": 35.9,
+      "offsetX": 1282.337802655526,
+      "offsetY": -1785.5936910030412,
+      "targetX": 65,
+      "targetY": -135
+    },
+    {
+      "char": "23",
+      "index": 23,
+      "phi": 55.900000000000006,
+      "direction": 34.099999999999994,
+      "offsetX": 1224.4377377672938,
+      "offsetY": -1826.1357529006127,
+      "targetX": 110,
+      "targetY": -135
+    },
+    {
+      "char": "24",
+      "index": 24,
+      "phi": 57.800000000000004,
+      "direction": 32.199999999999996,
+      "offsetX": 1161.9716211591424,
+      "offsetY": -1866.9346237870188,
+      "targetX": 155,
+      "targetY": -135
+    },
+    {
+      "char": "25",
+      "index": 25,
+      "phi": 59.800000000000004,
+      "direction": 30.199999999999996,
+      "offsetX": 1094.7948799180288,
+      "offsetY": -1907.6183043958358,
+      "targetX": -160,
+      "targetY": -225
+    },
+    {
+      "char": "26",
+      "index": 26,
+      "phi": 61.900000000000006,
+      "direction": 28.099999999999994,
+      "offsetX": 1022.7767327436719,
+      "offsetY": -1947.7854485397527,
+      "targetX": -115,
+      "targetY": -225
+    },
+    {
+      "char": "27",
+      "index": 27,
+      "phi": 64.2,
+      "direction": 25.799999999999997,
+      "offsetX": 942.269973587737,
+      "offsetY": -1988.7172356549352,
+      "targetX": -70,
+      "targetY": -225
+    },
+    {
+      "char": "28",
+      "index": 28,
+      "phi": 66.7,
+      "direction": 23.299999999999997,
+      "offsetX": 852.9773807666714,
+      "offsetY": -2029.5043580219465,
+      "targetX": -25,
+      "targetY": -225
+    },
+    {
+      "char": "29",
+      "index": 29,
+      "phi": 69.60000000000001,
+      "direction": 20.39999999999999,
+      "offsetX": 747.2871064740841,
+      "offsetY": -2071.8844763567563,
+      "targetX": 20,
+      "targetY": -225
+    },
+    {
+      "char": "30",
+      "index": 30,
+      "phi": 73.10000000000001,
+      "direction": 16.89999999999999,
+      "offsetX": 617.0799355960677,
+      "offsetY": -2115.8305641296165,
+      "targetX": 65,
+      "targetY": -225
+    },
+    {
+      "char": "31",
+      "index": 31,
+      "phi": 84.30000000000001,
+      "direction": 5.699999999999989,
+      "offsetX": 186.46943692318754,
+      "offsetY": -2201.8750324127595,
+      "targetX": 110,
+      "targetY": -225
+    }
+  ],
+  "output": "SVGパッキング31文字と31画像_スライダーデモ.sb3",
+  "origin": [
+    8.0,
+    0.5
+  ],
+  "endpoints": [
+    [
+      0,
+      0
+    ],
+    [
+      15,
+      0
+    ]
+  ],
+  "marginPixels": 2,
+  "renderer": {
+    "procedure": "画像を描画 %s x %s y %s",
+    "argumentIds": [
+      "image_id_argument",
+      "image_x_argument",
+      "image_y_argument"
+    ],
+    "lists": [
+      "画像ID",
+      "描画X補正",
+      "描画Y補正",
+      "描画方向",
+      "描画サイズ",
+      "描画コスチューム"
+    ],
+    "boundsTrigger": "touching-edge"
+  },
+  "displaySide": 66
+}

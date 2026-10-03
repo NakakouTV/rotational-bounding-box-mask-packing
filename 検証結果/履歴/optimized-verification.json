@@ -1,0 +1,863 @@
+{
+  "single": [
+    {
+      "index": 0,
+      "direction": 80.9,
+      "time": 32582.20000001788,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "1",
+      "char": "日"
+    },
+    {
+      "index": 1,
+      "direction": 74.3,
+      "time": 2310.4000000059605,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "2",
+      "char": "本"
+    },
+    {
+      "index": 2,
+      "direction": 70.6,
+      "time": 3158.2000000178814,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "3",
+      "char": "語"
+    },
+    {
+      "index": 3,
+      "direction": 67.6,
+      "time": 4231.200000017881,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "4",
+      "char": "文"
+    },
+    {
+      "index": 4,
+      "direction": 65,
+      "time": 5302.0999999940395,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "5",
+      "char": "字"
+    },
+    {
+      "index": 5,
+      "direction": 62.599999999999994,
+      "time": 6374.300000011921,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "6",
+      "char": "画"
+    },
+    {
+      "index": 6,
+      "direction": 60.4,
+      "time": 7190.200000017881,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "7",
+      "char": "像"
+    },
+    {
+      "index": 7,
+      "direction": 58.4,
+      "time": 8246,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "8",
+      "char": "表"
+    },
+    {
+      "index": 8,
+      "direction": 56.5,
+      "time": 9334.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "9",
+      "char": "示"
+    },
+    {
+      "index": 9,
+      "direction": 54.699999999999996,
+      "time": 10392,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "a",
+      "char": "実"
+    },
+    {
+      "index": 10,
+      "direction": 53,
+      "time": 11190.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "b",
+      "char": "験"
+    },
+    {
+      "index": 11,
+      "direction": 51.3,
+      "time": 12247.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "c",
+      "char": "大"
+    },
+    {
+      "index": 12,
+      "direction": 49.699999999999996,
+      "time": 13318,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "d",
+      "char": "小"
+    },
+    {
+      "index": 13,
+      "direction": 48.199999999999996,
+      "time": 14390.5,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "e",
+      "char": "上"
+    },
+    {
+      "index": 14,
+      "direction": 46.699999999999996,
+      "time": 15203.59999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "f",
+      "char": "下"
+    },
+    {
+      "index": 15,
+      "direction": 45.199999999999996,
+      "time": 16246.300000011921,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "g",
+      "char": "左"
+    },
+    {
+      "index": 16,
+      "direction": 43.8,
+      "time": 17318.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "h",
+      "char": "右"
+    },
+    {
+      "index": 17,
+      "direction": 42.3,
+      "time": 18374.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "i",
+      "char": "天"
+    },
+    {
+      "index": 18,
+      "direction": 40.8,
+      "time": 19446,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "j",
+      "char": "地"
+    },
+    {
+      "index": 19,
+      "direction": 39.199999999999996,
+      "time": 20263.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "k",
+      "char": "山"
+    },
+    {
+      "index": 20,
+      "direction": 37.599999999999994,
+      "time": 21334,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "l",
+      "char": "川"
+    },
+    {
+      "index": 21,
+      "direction": 35.9,
+      "time": 22407,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "m",
+      "char": "森"
+    },
+    {
+      "index": 22,
+      "direction": 34.099999999999994,
+      "time": 23478.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "n",
+      "char": "林"
+    },
+    {
+      "index": 23,
+      "direction": 32.199999999999996,
+      "time": 24274.5,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "o",
+      "char": "水"
+    },
+    {
+      "index": 24,
+      "direction": 30.199999999999996,
+      "time": 25350.20000001788,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "p",
+      "char": "火"
+    },
+    {
+      "index": 25,
+      "direction": 28.099999999999994,
+      "time": 26422,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "q",
+      "char": "木"
+    },
+    {
+      "index": 26,
+      "direction": 25.799999999999997,
+      "time": 27496,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "r",
+      "char": "金"
+    },
+    {
+      "index": 27,
+      "direction": 23.299999999999997,
+      "time": 28306.5,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "s",
+      "char": "土"
+    },
+    {
+      "index": 28,
+      "direction": 20.39999999999999,
+      "time": 29366.30000001192,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "t",
+      "char": "月"
+    },
+    {
+      "index": 29,
+      "direction": 16.89999999999999,
+      "time": 30438,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "u",
+      "char": "星"
+    },
+    {
+      "index": 30,
+      "direction": 5.699999999999989,
+      "time": 31510.09999999404,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "threads": 1,
+      "visible": false,
+      "maxTextureScale": 128,
+      "silhouetteWidth": 2048,
+      "silhouetteHeight": 1024,
+      "key": "v",
+      "char": "空"
+    }
+  ],
+  "automatic": [
+    {
+      "index": 1,
+      "char": "本",
+      "time": 2310.4000000059605
+    },
+    {
+      "index": 2,
+      "char": "語",
+      "time": 3158.2000000178814
+    },
+    {
+      "index": 3,
+      "char": "文",
+      "time": 4231.200000017881
+    },
+    {
+      "index": 4,
+      "char": "字",
+      "time": 5302.0999999940395
+    },
+    {
+      "index": 5,
+      "char": "画",
+      "time": 6374.300000011921
+    },
+    {
+      "index": 6,
+      "char": "像",
+      "time": 7190.200000017881
+    },
+    {
+      "index": 7,
+      "char": "表",
+      "time": 8246
+    },
+    {
+      "index": 8,
+      "char": "示",
+      "time": 9334.09999999404
+    },
+    {
+      "index": 9,
+      "char": "実",
+      "time": 10392
+    },
+    {
+      "index": 10,
+      "char": "験",
+      "time": 11190.09999999404
+    },
+    {
+      "index": 11,
+      "char": "大",
+      "time": 12247.09999999404
+    },
+    {
+      "index": 12,
+      "char": "小",
+      "time": 13318
+    },
+    {
+      "index": 13,
+      "char": "上",
+      "time": 14390.5
+    },
+    {
+      "index": 14,
+      "char": "下",
+      "time": 15203.59999999404
+    },
+    {
+      "index": 15,
+      "char": "左",
+      "time": 16246.300000011921
+    },
+    {
+      "index": 16,
+      "char": "右",
+      "time": 17318.09999999404
+    },
+    {
+      "index": 17,
+      "char": "天",
+      "time": 18374.09999999404
+    },
+    {
+      "index": 18,
+      "char": "地",
+      "time": 19446
+    },
+    {
+      "index": 19,
+      "char": "山",
+      "time": 20263.09999999404
+    },
+    {
+      "index": 20,
+      "char": "川",
+      "time": 21334
+    },
+    {
+      "index": 21,
+      "char": "森",
+      "time": 22407
+    },
+    {
+      "index": 22,
+      "char": "林",
+      "time": 23478.09999999404
+    },
+    {
+      "index": 23,
+      "char": "水",
+      "time": 24274.5
+    },
+    {
+      "index": 24,
+      "char": "火",
+      "time": 25350.20000001788
+    },
+    {
+      "index": 25,
+      "char": "木",
+      "time": 26422
+    },
+    {
+      "index": 26,
+      "char": "金",
+      "time": 27496
+    },
+    {
+      "index": 27,
+      "char": "土",
+      "time": 28306.5
+    },
+    {
+      "index": 28,
+      "char": "月",
+      "time": 29366.30000001192
+    },
+    {
+      "index": 29,
+      "char": "星",
+      "time": 30438
+    },
+    {
+      "index": 30,
+      "char": "空",
+      "time": 31510.09999999404
+    },
+    {
+      "index": 0,
+      "char": "日",
+      "time": 32582.20000001788
+    },
+    {
+      "index": 1,
+      "char": "本",
+      "time": 33398.20000001788
+    },
+    {
+      "index": 2,
+      "char": "語",
+      "time": 34422
+    },
+    {
+      "index": 3,
+      "char": "文",
+      "time": 35446.09999999404
+    },
+    {
+      "index": 4,
+      "char": "字",
+      "time": 36471
+    }
+  ]
+}

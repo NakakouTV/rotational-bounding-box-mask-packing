@@ -1,0 +1,871 @@
+{
+  "monitor": {
+    "id": "demo_tile_number",
+    "spriteName": null,
+    "targetId": null,
+    "opcode": "data_variable",
+    "value": 1,
+    "params": {
+      "VARIABLE": "画像番号"
+    },
+    "mode": "slider",
+    "sliderMin": 1,
+    "sliderMax": 31,
+    "isDiscrete": true,
+    "x": 275,
+    "y": 270,
+    "width": 0,
+    "height": 0,
+    "visible": true
+  },
+  "tiles": [
+    {
+      "number": 1,
+      "tileIndex": 1,
+      "textIndex": 2,
+      "time": 2414.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -2084.6810651895507,
+      "tileY": 318.85565132258796,
+      "tileDirection": 80.9,
+      "visible": false
+    },
+    {
+      "number": 2,
+      "tileIndex": 2,
+      "textIndex": 2,
+      "time": 2557.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -2029.0564294595774,
+      "tileY": 571.8510034456933,
+      "tileDirection": 74.3,
+      "visible": false
+    },
+    {
+      "number": 3,
+      "tileIndex": 3,
+      "textIndex": 2,
+      "time": 2685.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1985.2509803821022,
+      "tileY": 710.3625467383323,
+      "tileDirection": 70.6,
+      "visible": false
+    },
+    {
+      "number": 4,
+      "tileIndex": 4,
+      "textIndex": 2,
+      "time": 2765.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1943.228575627705,
+      "tileY": 820.4083467881169,
+      "tileDirection": 67.6,
+      "visible": false
+    },
+    {
+      "number": 5,
+      "tileIndex": 5,
+      "textIndex": 2,
+      "time": 2893.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1902.1925208324624,
+      "tileY": 913.8910889165738,
+      "tileDirection": 65,
+      "visible": false
+    },
+    {
+      "number": 6,
+      "tileIndex": 6,
+      "textIndex": 2,
+      "time": 3022.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1860.5846165569033,
+      "tileY": 998.4495157636661,
+      "tileDirection": 62.599999999999994,
+      "visible": false
+    },
+    {
+      "number": 7,
+      "tileIndex": 7,
+      "textIndex": 3,
+      "time": 3117.5999999940395,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1819.3635913867429,
+      "tileY": 1074.3691998145196,
+      "tileDirection": 60.4,
+      "visible": false
+    },
+    {
+      "number": 8,
+      "tileIndex": 8,
+      "textIndex": 3,
+      "time": 3182.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1779.3856018218573,
+      "tileY": 1141.968288432678,
+      "tileDirection": 58.4,
+      "visible": false
+    },
+    {
+      "number": 9,
+      "tileIndex": 9,
+      "textIndex": 3,
+      "time": 3277.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1739.2430996511282,
+      "tileY": 1204.858216952131,
+      "tileDirection": 56.5,
+      "visible": false
+    },
+    {
+      "number": 10,
+      "tileIndex": 10,
+      "textIndex": 3,
+      "time": 3389.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1699.3095776803605,
+      "tileY": 1263.1796548628877,
+      "tileDirection": 54.699999999999996,
+      "visible": false
+    },
+    {
+      "number": 11,
+      "tileIndex": 11,
+      "textIndex": 3,
+      "time": 3517.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1659.929897606409,
+      "tileY": 1317.0838020921087,
+      "tileDirection": 53,
+      "visible": false
+    },
+    {
+      "number": 12,
+      "tileIndex": 12,
+      "textIndex": 3,
+      "time": 3598.699999988079,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1618.968416511242,
+      "tileY": 1369.7959767553366,
+      "tileDirection": 51.3,
+      "visible": false
+    },
+    {
+      "number": 13,
+      "tileIndex": 13,
+      "textIndex": 3,
+      "time": 3694.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1579.0037418152988,
+      "tileY": 1418.277003898534,
+      "tileDirection": 49.699999999999996,
+      "visible": false
+    },
+    {
+      "number": 14,
+      "tileIndex": 14,
+      "textIndex": 3,
+      "time": 3790.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1540.3209992864395,
+      "tileY": 1462.6980580612685,
+      "tileDirection": 48.199999999999996,
+      "visible": false
+    },
+    {
+      "number": 15,
+      "tileIndex": 15,
+      "textIndex": 3,
+      "time": 3917.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1500.4887047287239,
+      "tileY": 1506.0912940865967,
+      "tileDirection": 46.699999999999996,
+      "visible": false
+    },
+    {
+      "number": 16,
+      "tileIndex": 16,
+      "textIndex": 3,
+      "time": 3997.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1459.5341572071725,
+      "tileY": 1548.4269724180883,
+      "tileDirection": 45.199999999999996,
+      "visible": false
+    },
+    {
+      "number": 17,
+      "tileIndex": 17,
+      "textIndex": 3,
+      "time": 4077.7999999821186,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1420.3221412084154,
+      "tileY": 1586.9605132213148,
+      "tileDirection": 43.8,
+      "visible": false
+    },
+    {
+      "number": 18,
+      "tileIndex": 18,
+      "textIndex": 4,
+      "time": 4158.5999999940395,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1377.27815539699,
+      "tileY": 1627.169963701872,
+      "tileDirection": 42.3,
+      "visible": false
+    },
+    {
+      "number": 19,
+      "tileIndex": 19,
+      "textIndex": 4,
+      "time": 4237.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1333.1963589777372,
+      "tileY": 1666.2388752164525,
+      "tileDirection": 40.8,
+      "visible": false
+    },
+    {
+      "number": 20,
+      "tileIndex": 20,
+      "textIndex": 4,
+      "time": 4349.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1285.0659309959142,
+      "tileY": 1706.6250995844043,
+      "tileDirection": 39.199999999999996,
+      "visible": false
+    },
+    {
+      "number": 21,
+      "tileIndex": 21,
+      "textIndex": 4,
+      "time": 4429.799999982119,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1235.8266187778522,
+      "tileY": 1745.6516975491793,
+      "tileDirection": 37.599999999999994,
+      "visible": false
+    },
+    {
+      "number": 22,
+      "tileIndex": 22,
+      "textIndex": 4,
+      "time": 4529.5999999940395,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1182.337802655526,
+      "tileY": 1785.5936910030412,
+      "tileDirection": 35.9,
+      "visible": false
+    },
+    {
+      "number": 23,
+      "tileIndex": 23,
+      "textIndex": 4,
+      "time": 4638.799999982119,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1124.4377377672938,
+      "tileY": 1826.1357529006127,
+      "tileDirection": 34.099999999999994,
+      "visible": false
+    },
+    {
+      "number": 24,
+      "tileIndex": 24,
+      "textIndex": 4,
+      "time": 4765.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -1061.9716211591424,
+      "tileY": 1866.9346237870188,
+      "tileDirection": 32.199999999999996,
+      "visible": false
+    },
+    {
+      "number": 25,
+      "tileIndex": 25,
+      "textIndex": 4,
+      "time": 4847.0999999940395,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -994.7948799180288,
+      "tileY": 1907.6183043958358,
+      "tileDirection": 30.199999999999996,
+      "visible": false
+    },
+    {
+      "number": 26,
+      "tileIndex": 26,
+      "textIndex": 4,
+      "time": 4957.799999982119,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -922.7767327436719,
+      "tileY": 1947.7854485397527,
+      "tileDirection": 28.099999999999994,
+      "visible": false
+    },
+    {
+      "number": 27,
+      "tileIndex": 27,
+      "textIndex": 4,
+      "time": 5038.799999982119,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -842.269973587737,
+      "tileY": 1988.7172356549352,
+      "tileDirection": 25.799999999999997,
+      "visible": false
+    },
+    {
+      "number": 28,
+      "tileIndex": 28,
+      "textIndex": 5,
+      "time": 5133.199999988079,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -752.9773807666714,
+      "tileY": 2029.5043580219465,
+      "tileDirection": 23.299999999999997,
+      "visible": false
+    },
+    {
+      "number": 29,
+      "tileIndex": 29,
+      "textIndex": 5,
+      "time": 5198.899999976158,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -647.2871064740841,
+      "tileY": 2071.8844763567563,
+      "tileDirection": 20.39999999999999,
+      "visible": false
+    },
+    {
+      "number": 30,
+      "tileIndex": 30,
+      "textIndex": 5,
+      "time": 5295.699999988079,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -517.0799355960677,
+      "tileY": 2115.8305641296165,
+      "tileDirection": 16.89999999999999,
+      "visible": false
+    },
+    {
+      "number": 31,
+      "tileIndex": 31,
+      "textIndex": 5,
+      "time": 5421.799999982119,
+      "hull": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ]
+      ],
+      "textureWidth": 2048,
+      "textureHeight": 1024,
+      "tileX": -86.46943692318754,
+      "tileY": 2201.8750324127595,
+      "tileDirection": 5.699999999999989,
+      "visible": false
+    }
+  ],
+  "characters": [
+    {
+      "index": 2,
+      "time": 2414.899999976158
+    },
+    {
+      "index": 3,
+      "time": 3117.5999999940395
+    },
+    {
+      "index": 4,
+      "time": 4158.5999999940395
+    },
+    {
+      "index": 5,
+      "time": 5133.199999988079
+    },
+    {
+      "index": 6,
+      "time": 6238.899999976158
+    },
+    {
+      "index": 7,
+      "time": 7245.799999982119
+    },
+    {
+      "index": 8,
+      "time": 8253.899999976158
+    },
+    {
+      "index": 9,
+      "time": 9262.799999982119
+    },
+    {
+      "index": 10,
+      "time": 10270.799999982119
+    },
+    {
+      "index": 11,
+      "time": 11277.799999982119
+    },
+    {
+      "index": 12,
+      "time": 12285.799999982119
+    },
+    {
+      "index": 13,
+      "time": 13294.899999976158
+    },
+    {
+      "index": 14,
+      "time": 14301.899999976158
+    },
+    {
+      "index": 15,
+      "time": 15309.799999982119
+    },
+    {
+      "index": 16,
+      "time": 16318.799999982119
+    },
+    {
+      "index": 17,
+      "time": 17325.899999976158
+    },
+    {
+      "index": 18,
+      "time": 18335
+    },
+    {
+      "index": 19,
+      "time": 19342
+    },
+    {
+      "index": 20,
+      "time": 20349.899999976158
+    },
+    {
+      "index": 21,
+      "time": 21358
+    },
+    {
+      "index": 22,
+      "time": 22365.79999998212
+    },
+    {
+      "index": 23,
+      "time": 23373.899999976158
+    },
+    {
+      "index": 24,
+      "time": 24381.79999998212
+    },
+    {
+      "index": 25,
+      "time": 25389.69999998808
+    },
+    {
+      "index": 26,
+      "time": 26398.79999998212
+    },
+    {
+      "index": 27,
+      "time": 27405.79999998212
+    },
+    {
+      "index": 28,
+      "time": 28413.899999976158
+    },
+    {
+      "index": 29,
+      "time": 29422.79999998212
+    },
+    {
+      "index": 30,
+      "time": 30430.899999976158
+    },
+    {
+      "index": 31,
+      "time": 31438.899999976158
+    },
+    {
+      "index": 1,
+      "time": 32445.79999998212
+    },
+    {
+      "index": 2,
+      "time": 33453.89999997616
+    },
+    {
+      "index": 3,
+      "time": 34461.89999997616
+    },
+    {
+      "index": 4,
+      "time": 35469.79999998212
+    },
+    {
+      "index": 5,
+      "time": 36477.79999998212
+    },
+    {
+      "index": 6,
+      "time": 37486.89999997616
+    },
+    {
+      "index": 7,
+      "time": 38493.89999997616
+    },
+    {
+      "index": 8,
+      "time": 39502.89999997616
+    },
+    {
+      "index": 9,
+      "time": 40509.79999998212
+    },
+    {
+      "index": 10,
+      "time": 41517.89999997616
+    },
+    {
+      "index": 11,
+      "time": 42525.79999998212
+    }
+  ]
+}

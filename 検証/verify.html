@@ -1,0 +1,13 @@
+<!doctype html><meta charset="utf-8"><body style="margin:0"><canvas id="stage" width="480" height="360"></canvas><script src="../ライブラリ/scratch-render.js"></script><script>
+window.run=async(svg,items,center=[1,.5])=>{
+const r=new ScratchRender(document.getElementById('stage')); r.setLayerGroupOrdering(['sprite']);
+const skin=r.createSVGSkin(svg,center); const d=r.createDrawable('sprite'); r.updateDrawableSkinId(d,skin);
+await new Promise(resolve=>setTimeout(resolve,300));
+const pen=r.createPenSkin(); const pd=r.createDrawable('sprite');r.updateDrawableSkinId(pd,pen);
+const results=[];
+for(let i=0;i<items.length;i++){
+const q=items[i];r.updateDrawableDirectionScale(d,q.direction,[q.size||60000,q.size||60000]);r.updateDrawablePosition(d,[(q.targetX??(-110+110*i))-q.offsetX,-q.offsetY]);
+const bounds=r.getBounds(d); results.push({char:q.char,bounds:{left:bounds.left,right:bounds.right,top:bounds.top,bottom:bounds.bottom},hull:r._allDrawables[d]._convexHullPoints});r.penStamp(pen,d);
+}
+r.updateDrawableVisible(d,false);r.draw();return results;
+};</script>

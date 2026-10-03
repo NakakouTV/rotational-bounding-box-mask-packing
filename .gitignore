@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+.venv/
+tmp/
+ライブラリ/*.js
+フォント/*.ttf
+フォント/*.otf
+検証結果/画像/*reference*.png
+検証結果/画像/numbered-tile-*.png
+検証結果/画像/optimized-*.png
+検証結果/画像/unmasked-*.png
+検証結果/画像/pdf*

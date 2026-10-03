@@ -1,0 +1,7 @@
+const workspace=require('./paths.cjs');
+const {chromium}=require('playwright');const fs=require('fs'),path=require('path');
+(async()=>{const config=JSON.parse(fs.readFileSync(workspace.asset('optimized-config.json'),'utf8'));const svg=fs.readFileSync(workspace.asset('packed-font-optimized.svg'),'utf8');
+const browser=await chromium.launch({...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{}),headless:true,args:['--allow-file-access-from-files','--enable-unsafe-swiftshader']});const page=await browser.newPage({viewport:{width:480,height:360},deviceScaleFactor:1});await page.goto('file:///'+workspace.verify('verify-unmasked.html').replaceAll('\\','/'));
+const variants=await page.evaluate(svg=>{const doc=new DOMParser().parseFromString(svg,'image/svg+xml');const groups=[...doc.documentElement.children].filter(x=>x.tagName==='g');return groups.map(g=>{const copy=doc.documentElement.cloneNode(false);copy.appendChild(g.cloneNode(true));return new XMLSerializer().serializeToString(copy)})},svg);
+for(let i=0;i<config.items.length;i++){await page.evaluate(({svg,origin,item,scale})=>window.reference(svg,origin,item,scale),{svg:variants[i],origin:config.origin,item:config.items[i],scale:config.scale});await page.screenshot({path:workspace.image('unmasked-'+(i+1)+'.png')});await page.evaluate(()=>window.clean());}
+await browser.close();console.log('Generated isolated, unmasked reference images for all glyphs.')})().catch(e=>{console.error(e);process.exit(1)});

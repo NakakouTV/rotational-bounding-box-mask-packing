@@ -1,0 +1,1656 @@
+[
+  {
+    "width": 4,
+    "height": 4,
+    "textureScale": 512,
+    "textureWidth": 2048,
+    "textureHeight": 2048,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 600.0,
+    "fixedCount": 12,
+    "fixedPositions": [
+      {
+        "phi": 21.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 27.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 32.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 36.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 40.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 43.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 46.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 50.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 53.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 57.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 62.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 69.5,
+        "radius": 1.41
+      }
+    ],
+    "variableCount": 15,
+    "positions": [
+      {
+        "phi": 18.5,
+        "radius": 1.4025
+      },
+      {
+        "phi": 26.5,
+        "radius": 1.4295
+      },
+      {
+        "phi": 31.0,
+        "radius": 1.44
+      },
+      {
+        "phi": 34.5,
+        "radius": 1.4445
+      },
+      {
+        "phi": 37.5,
+        "radius": 1.4489999999999998
+      },
+      {
+        "phi": 40.0,
+        "radius": 1.452
+      },
+      {
+        "phi": 42.5,
+        "radius": 1.4535
+      },
+      {
+        "phi": 44.5,
+        "radius": 1.455
+      },
+      {
+        "phi": 46.5,
+        "radius": 1.455
+      },
+      {
+        "phi": 49.0,
+        "radius": 1.452
+      },
+      {
+        "phi": 51.5,
+        "radius": 1.4489999999999998
+      },
+      {
+        "phi": 54.0,
+        "radius": 1.4475
+      },
+      {
+        "phi": 57.0,
+        "radius": 1.443
+      },
+      {
+        "phi": 60.5,
+        "radius": 1.4369999999999998
+      },
+      {
+        "phi": 78.0,
+        "radius": 1.3515000000000001
+      }
+    ]
+  },
+  {
+    "width": 4,
+    "height": 2,
+    "textureScale": 512,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 600.0,
+    "fixedCount": 12,
+    "fixedPositions": [
+      {
+        "phi": 21.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 27.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 32.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 36.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 40.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 43.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 46.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 50.0,
+        "radius": 1.41
+      },
+      {
+        "phi": 53.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 57.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 62.5,
+        "radius": 1.41
+      },
+      {
+        "phi": 69.5,
+        "radius": 1.41
+      }
+    ],
+    "variableCount": 15,
+    "positions": [
+      {
+        "phi": 18.5,
+        "radius": 1.4025
+      },
+      {
+        "phi": 26.5,
+        "radius": 1.4295
+      },
+      {
+        "phi": 31.0,
+        "radius": 1.44
+      },
+      {
+        "phi": 34.5,
+        "radius": 1.4445
+      },
+      {
+        "phi": 37.5,
+        "radius": 1.4489999999999998
+      },
+      {
+        "phi": 40.0,
+        "radius": 1.452
+      },
+      {
+        "phi": 42.5,
+        "radius": 1.4535
+      },
+      {
+        "phi": 44.5,
+        "radius": 1.455
+      },
+      {
+        "phi": 46.5,
+        "radius": 1.455
+      },
+      {
+        "phi": 49.0,
+        "radius": 1.452
+      },
+      {
+        "phi": 51.5,
+        "radius": 1.4489999999999998
+      },
+      {
+        "phi": 54.0,
+        "radius": 1.4475
+      },
+      {
+        "phi": 57.0,
+        "radius": 1.443
+      },
+      {
+        "phi": 60.5,
+        "radius": 1.4369999999999998
+      },
+      {
+        "phi": 78.0,
+        "radius": 1.3515000000000001
+      }
+    ]
+  },
+  {
+    "width": 8,
+    "height": 8,
+    "textureScale": 256,
+    "textureWidth": 2048,
+    "textureHeight": 2048,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 300.0,
+    "fixedCount": 13,
+    "fixedPositions": [
+      {
+        "phi": 25.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 30.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 34.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 37.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 40.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 43.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 46.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 48.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 51.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 55.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 59.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 63.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 69.0,
+        "radius": 3.3249999999999997
+      }
+    ],
+    "variableCount": 18,
+    "positions": [
+      {
+        "phi": 19.0,
+        "radius": 3.3074999999999997
+      },
+      {
+        "phi": 25.5,
+        "radius": 3.3565
+      },
+      {
+        "phi": 29.5,
+        "radius": 3.3739999999999997
+      },
+      {
+        "phi": 32.5,
+        "radius": 3.3845
+      },
+      {
+        "phi": 35.0,
+        "radius": 3.3914999999999997
+      },
+      {
+        "phi": 37.5,
+        "radius": 3.3985
+      },
+      {
+        "phi": 39.5,
+        "radius": 3.402
+      },
+      {
+        "phi": 41.5,
+        "radius": 3.4055
+      },
+      {
+        "phi": 43.5,
+        "radius": 3.409
+      },
+      {
+        "phi": 45.5,
+        "radius": 3.409
+      },
+      {
+        "phi": 47.5,
+        "radius": 3.4055
+      },
+      {
+        "phi": 49.5,
+        "radius": 3.402
+      },
+      {
+        "phi": 51.5,
+        "radius": 3.3985
+      },
+      {
+        "phi": 54.0,
+        "radius": 3.395
+      },
+      {
+        "phi": 56.5,
+        "radius": 3.388
+      },
+      {
+        "phi": 59.5,
+        "radius": 3.3775
+      },
+      {
+        "phi": 63.0,
+        "radius": 3.3634999999999997
+      },
+      {
+        "phi": 78.0,
+        "radius": 3.2025
+      }
+    ]
+  },
+  {
+    "width": 8,
+    "height": 4,
+    "textureScale": 256,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 300.0,
+    "fixedCount": 13,
+    "fixedPositions": [
+      {
+        "phi": 25.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 30.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 34.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 37.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 40.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 43.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 46.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 48.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 51.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 55.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 59.0,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 63.5,
+        "radius": 3.3249999999999997
+      },
+      {
+        "phi": 69.0,
+        "radius": 3.3249999999999997
+      }
+    ],
+    "variableCount": 18,
+    "positions": [
+      {
+        "phi": 19.0,
+        "radius": 3.3074999999999997
+      },
+      {
+        "phi": 25.5,
+        "radius": 3.3565
+      },
+      {
+        "phi": 29.5,
+        "radius": 3.3739999999999997
+      },
+      {
+        "phi": 32.5,
+        "radius": 3.3845
+      },
+      {
+        "phi": 35.0,
+        "radius": 3.3914999999999997
+      },
+      {
+        "phi": 37.5,
+        "radius": 3.3985
+      },
+      {
+        "phi": 39.5,
+        "radius": 3.402
+      },
+      {
+        "phi": 41.5,
+        "radius": 3.4055
+      },
+      {
+        "phi": 43.5,
+        "radius": 3.409
+      },
+      {
+        "phi": 45.5,
+        "radius": 3.409
+      },
+      {
+        "phi": 47.5,
+        "radius": 3.4055
+      },
+      {
+        "phi": 49.5,
+        "radius": 3.402
+      },
+      {
+        "phi": 51.5,
+        "radius": 3.3985
+      },
+      {
+        "phi": 54.0,
+        "radius": 3.395
+      },
+      {
+        "phi": 56.5,
+        "radius": 3.388
+      },
+      {
+        "phi": 59.5,
+        "radius": 3.3775
+      },
+      {
+        "phi": 63.0,
+        "radius": 3.3634999999999997
+      },
+      {
+        "phi": 78.0,
+        "radius": 3.2025
+      }
+    ]
+  },
+  {
+    "width": 16,
+    "height": 16,
+    "textureScale": 128,
+    "textureWidth": 2048,
+    "textureHeight": 2048,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 150.0,
+    "fixedCount": 14,
+    "fixedPositions": [
+      {
+        "phi": 23.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 28.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 32.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 36.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 39.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 42.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 44.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 47.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 49.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 52.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 56.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 60.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 64.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 70.5,
+        "radius": 7.125
+      }
+    ],
+    "variableCount": 19,
+    "positions": [
+      {
+        "phi": 19.0,
+        "radius": 7.1175
+      },
+      {
+        "phi": 25.0,
+        "radius": 7.2075
+      },
+      {
+        "phi": 29.0,
+        "radius": 7.245
+      },
+      {
+        "phi": 32.0,
+        "radius": 7.26
+      },
+      {
+        "phi": 34.5,
+        "radius": 7.2749999999999995
+      },
+      {
+        "phi": 37.0,
+        "radius": 7.29
+      },
+      {
+        "phi": 39.0,
+        "radius": 7.297499999999999
+      },
+      {
+        "phi": 41.0,
+        "radius": 7.305
+      },
+      {
+        "phi": 43.0,
+        "radius": 7.3125
+      },
+      {
+        "phi": 44.5,
+        "radius": 7.32
+      },
+      {
+        "phi": 46.0,
+        "radius": 7.32
+      },
+      {
+        "phi": 48.0,
+        "radius": 7.3125
+      },
+      {
+        "phi": 50.0,
+        "radius": 7.305
+      },
+      {
+        "phi": 52.0,
+        "radius": 7.297499999999999
+      },
+      {
+        "phi": 54.5,
+        "radius": 7.2825
+      },
+      {
+        "phi": 57.0,
+        "radius": 7.2675
+      },
+      {
+        "phi": 60.0,
+        "radius": 7.2524999999999995
+      },
+      {
+        "phi": 63.5,
+        "radius": 7.2225
+      },
+      {
+        "phi": 78.5,
+        "radius": 6.8775
+      }
+    ]
+  },
+  {
+    "width": 16,
+    "height": 8,
+    "textureScale": 128,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 150.0,
+    "fixedCount": 14,
+    "fixedPositions": [
+      {
+        "phi": 23.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 28.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 32.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 36.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 39.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 42.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 44.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 47.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 49.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 52.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 56.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 60.0,
+        "radius": 7.125
+      },
+      {
+        "phi": 64.5,
+        "radius": 7.125
+      },
+      {
+        "phi": 70.5,
+        "radius": 7.125
+      }
+    ],
+    "variableCount": 19,
+    "positions": [
+      {
+        "phi": 19.0,
+        "radius": 7.1175
+      },
+      {
+        "phi": 25.0,
+        "radius": 7.2075
+      },
+      {
+        "phi": 29.0,
+        "radius": 7.245
+      },
+      {
+        "phi": 32.0,
+        "radius": 7.26
+      },
+      {
+        "phi": 34.5,
+        "radius": 7.2749999999999995
+      },
+      {
+        "phi": 37.0,
+        "radius": 7.29
+      },
+      {
+        "phi": 39.0,
+        "radius": 7.297499999999999
+      },
+      {
+        "phi": 41.0,
+        "radius": 7.305
+      },
+      {
+        "phi": 43.0,
+        "radius": 7.3125
+      },
+      {
+        "phi": 44.5,
+        "radius": 7.32
+      },
+      {
+        "phi": 46.0,
+        "radius": 7.32
+      },
+      {
+        "phi": 48.0,
+        "radius": 7.3125
+      },
+      {
+        "phi": 50.0,
+        "radius": 7.305
+      },
+      {
+        "phi": 52.0,
+        "radius": 7.297499999999999
+      },
+      {
+        "phi": 54.5,
+        "radius": 7.2825
+      },
+      {
+        "phi": 57.0,
+        "radius": 7.2675
+      },
+      {
+        "phi": 60.0,
+        "radius": 7.2524999999999995
+      },
+      {
+        "phi": 63.5,
+        "radius": 7.2225
+      },
+      {
+        "phi": 78.5,
+        "radius": 6.8775
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 32,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 2048,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 15,
+    "fixedPositions": [
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 32.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 35.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 38.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 40.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 45.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 47.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 49.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 52.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 56.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 62.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 66.5,
+        "radius": 14.879999999999999
+      }
+    ],
+    "variableCount": 20,
+    "positions": [
+      {
+        "phi": 16.5,
+        "radius": 14.616499999999998
+      },
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 31.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 34.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 36.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 39.0,
+        "radius": 15.097
+      },
+      {
+        "phi": 41.0,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 15.128
+      },
+      {
+        "phi": 44.5,
+        "radius": 15.1435
+      },
+      {
+        "phi": 46.0,
+        "radius": 15.1435
+      },
+      {
+        "phi": 47.5,
+        "radius": 15.128
+      },
+      {
+        "phi": 49.5,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 51.5,
+        "radius": 15.097
+      },
+      {
+        "phi": 53.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 56.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 62.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 66.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 76.0,
+        "radius": 14.477
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 24,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 1536,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 15,
+    "fixedPositions": [
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 32.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 35.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 38.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 40.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 45.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 47.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 49.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 52.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 56.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 62.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 66.5,
+        "radius": 14.879999999999999
+      }
+    ],
+    "variableCount": 20,
+    "positions": [
+      {
+        "phi": 16.5,
+        "radius": 14.616499999999998
+      },
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 31.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 34.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 36.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 39.0,
+        "radius": 15.097
+      },
+      {
+        "phi": 41.0,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 15.128
+      },
+      {
+        "phi": 44.5,
+        "radius": 15.1435
+      },
+      {
+        "phi": 46.0,
+        "radius": 15.1435
+      },
+      {
+        "phi": 47.5,
+        "radius": 15.128
+      },
+      {
+        "phi": 49.5,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 51.5,
+        "radius": 15.097
+      },
+      {
+        "phi": 53.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 56.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 62.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 66.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 76.0,
+        "radius": 14.477
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 16,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 15,
+    "fixedPositions": [
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 32.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 35.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 38.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 40.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 45.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 47.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 49.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 52.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 56.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 62.5,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 66.5,
+        "radius": 14.879999999999999
+      }
+    ],
+    "variableCount": 20,
+    "positions": [
+      {
+        "phi": 16.5,
+        "radius": 14.616499999999998
+      },
+      {
+        "phi": 24.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 28.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 31.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 34.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 36.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 39.0,
+        "radius": 15.097
+      },
+      {
+        "phi": 41.0,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 43.0,
+        "radius": 15.128
+      },
+      {
+        "phi": 44.5,
+        "radius": 15.1435
+      },
+      {
+        "phi": 46.0,
+        "radius": 15.1435
+      },
+      {
+        "phi": 47.5,
+        "radius": 15.128
+      },
+      {
+        "phi": 49.5,
+        "radius": 15.112499999999999
+      },
+      {
+        "phi": 51.5,
+        "radius": 15.097
+      },
+      {
+        "phi": 53.5,
+        "radius": 15.0815
+      },
+      {
+        "phi": 56.0,
+        "radius": 15.0505
+      },
+      {
+        "phi": 59.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 62.0,
+        "radius": 14.972999999999999
+      },
+      {
+        "phi": 66.0,
+        "radius": 14.879999999999999
+      },
+      {
+        "phi": 76.0,
+        "radius": 14.477
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 12,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 768,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 4,
+    "fixedPositions": [
+      {
+        "phi": 16.5,
+        "radius": 14.415000000000001
+      },
+      {
+        "phi": 25.5,
+        "radius": 14.415000000000001
+      },
+      {
+        "phi": 65.5,
+        "radius": 14.415000000000001
+      },
+      {
+        "phi": 76.0,
+        "radius": 14.415000000000001
+      }
+    ],
+    "variableCount": 8,
+    "positions": [
+      {
+        "phi": 17.0,
+        "radius": 14.647499999999999
+      },
+      {
+        "phi": 24.5,
+        "radius": 14.849
+      },
+      {
+        "phi": 28.5,
+        "radius": 13.3455
+      },
+      {
+        "phi": 37.5,
+        "radius": 11.5785
+      },
+      {
+        "phi": 49.5,
+        "radius": 11.315
+      },
+      {
+        "phi": 60.0,
+        "radius": 12.927
+      },
+      {
+        "phi": 65.0,
+        "radius": 14.616499999999998
+      },
+      {
+        "phi": 77.5,
+        "radius": 14.353000000000002
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 8,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 512,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 2,
+    "fixedPositions": [
+      {
+        "phi": 3.5,
+        "radius": 9.299999999999999
+      },
+      {
+        "phi": 87.5,
+        "radius": 9.299999999999999
+      }
+    ],
+    "variableCount": 4,
+    "positions": [
+      {
+        "phi": 15.0,
+        "radius": 14.446000000000002
+      },
+      {
+        "phi": 25.0,
+        "radius": 9.4085
+      },
+      {
+        "phi": 65.0,
+        "radius": 9.4085
+      },
+      {
+        "phi": 77.5,
+        "radius": 14.353000000000002
+      }
+    ]
+  },
+  {
+    "width": 32,
+    "height": 4,
+    "textureScale": 64,
+    "textureWidth": 2048,
+    "textureHeight": 256,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 75.0,
+    "fixedCount": 2,
+    "fixedPositions": [
+      {
+        "phi": 3.5,
+        "radius": 9.299999999999999
+      },
+      {
+        "phi": 87.5,
+        "radius": 9.299999999999999
+      }
+    ],
+    "variableCount": 2,
+    "positions": [
+      {
+        "phi": 5.5,
+        "radius": 12.9115
+      },
+      {
+        "phi": 87.5,
+        "radius": 9.8425
+      }
+    ]
+  },
+  {
+    "width": 48,
+    "height": 24,
+    "textureScale": 32,
+    "textureWidth": 1536,
+    "textureHeight": 768,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 37.5,
+    "fixedCount": 7,
+    "fixedPositions": [
+      {
+        "phi": 29.5,
+        "radius": 22.09
+      },
+      {
+        "phi": 36.5,
+        "radius": 22.09
+      },
+      {
+        "phi": 42.0,
+        "radius": 22.09
+      },
+      {
+        "phi": 45.5,
+        "radius": 22.09
+      },
+      {
+        "phi": 49.5,
+        "radius": 22.09
+      },
+      {
+        "phi": 53.5,
+        "radius": 22.09
+      },
+      {
+        "phi": 60.5,
+        "radius": 22.09
+      }
+    ],
+    "variableCount": 12,
+    "positions": [
+      {
+        "phi": 23.0,
+        "radius": 22.230999999999998
+      },
+      {
+        "phi": 29.5,
+        "radius": 22.4425
+      },
+      {
+        "phi": 34.0,
+        "radius": 22.607
+      },
+      {
+        "phi": 38.0,
+        "radius": 22.6775
+      },
+      {
+        "phi": 40.5,
+        "radius": 22.5365
+      },
+      {
+        "phi": 44.0,
+        "radius": 22.0195
+      },
+      {
+        "phi": 47.0,
+        "radius": 22.278
+      },
+      {
+        "phi": 49.5,
+        "radius": 22.5365
+      },
+      {
+        "phi": 53.5,
+        "radius": 22.2075
+      },
+      {
+        "phi": 57.5,
+        "radius": 22.230999999999998
+      },
+      {
+        "phi": 62.5,
+        "radius": 22.043
+      },
+      {
+        "phi": 74.5,
+        "radius": 21.573
+      }
+    ]
+  },
+  {
+    "width": 64,
+    "height": 32,
+    "textureScale": 32,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 37.5,
+    "fixedCount": 10,
+    "fixedPositions": [
+      {
+        "phi": 23.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 30.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 34.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 38.0,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 43.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 46.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 52.0,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 55.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 59.5,
+        "radius": 29.924999999999997
+      },
+      {
+        "phi": 66.5,
+        "radius": 29.924999999999997
+      }
+    ],
+    "variableCount": 16,
+    "positions": [
+      {
+        "phi": 17.5,
+        "radius": 29.830499999999997
+      },
+      {
+        "phi": 26.0,
+        "radius": 30.366
+      },
+      {
+        "phi": 29.5,
+        "radius": 30.397499999999997
+      },
+      {
+        "phi": 33.0,
+        "radius": 30.5865
+      },
+      {
+        "phi": 36.0,
+        "radius": 30.6495
+      },
+      {
+        "phi": 39.0,
+        "radius": 30.7125
+      },
+      {
+        "phi": 41.5,
+        "radius": 30.302999999999997
+      },
+      {
+        "phi": 43.5,
+        "radius": 30.24
+      },
+      {
+        "phi": 45.5,
+        "radius": 30.7755
+      },
+      {
+        "phi": 47.5,
+        "radius": 30.24
+      },
+      {
+        "phi": 49.5,
+        "radius": 30.366
+      },
+      {
+        "phi": 52.5,
+        "radius": 29.988
+      },
+      {
+        "phi": 55.5,
+        "radius": 29.9565
+      },
+      {
+        "phi": 58.5,
+        "radius": 30.24
+      },
+      {
+        "phi": 63.0,
+        "radius": 29.8935
+      },
+      {
+        "phi": 76.5,
+        "radius": 28.6965
+      }
+    ]
+  },
+  {
+    "width": 100,
+    "height": 50,
+    "textureScale": 16,
+    "textureWidth": 1600,
+    "textureHeight": 800,
+    "glyphTexturePixels": 28.16,
+    "displayPixels": 33,
+    "scale": 18.75,
+    "fixedCount": 0,
+    "fixedPositions": [],
+    "variableCount": 0,
+    "positions": []
+  }
+]

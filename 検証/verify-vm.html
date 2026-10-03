@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><body style="margin:0"><canvas id="stage" width="480" height="360"></canvas><script src="../ライブラリ/scratch-render.js"></script><script src="../ライブラリ/scratch-storage.js"></script><script src="../ライブラリ/scratch-vm.js"></script><script>
+window.run=async(base64)=>{
+const vm=new VirtualMachine();const r=new ScratchRender(document.getElementById('stage'));vm.attachRenderer(r);vm.attachStorage(new ScratchStorage.ScratchStorage());
+vm.start();await vm.loadProject(Uint8Array.from(atob(base64),c=>c.charCodeAt(0)).buffer);await new Promise(resolve=>setTimeout(resolve,500));vm.greenFlag();await new Promise(resolve=>setTimeout(resolve,1200));window.vm=vm;
+return {targets:vm.runtime.targets.map(t=>({name:t.getName(),x:t.x,y:t.y,size:t.size,costume:t.currentCostume})),threads:vm.runtime.threads.length};
+};</script>
+
+

@@ -1,0 +1,36 @@
+{
+  "listLengths": {
+    "atlas_ids": 31,
+    "atlas_x": 31,
+    "atlas_y": 31,
+    "atlas_direction": 31,
+    "atlas_size": 31,
+    "atlas_costume": 31
+  },
+  "before": {
+    "x": -1092.3405325947754,
+    "y": 159.42782566129398,
+    "direction": 80.9,
+    "index": 1
+  },
+  "swapped": {
+    "x": -1092.3405325947754,
+    "y": 159.42782566129398,
+    "direction": 80.9,
+    "index": 2
+  },
+  "changed": {
+    "x": -1099.3405325947754,
+    "y": 164.42782566129398
+  },
+  "unknownIndex": 0,
+  "arbitrary": {
+    "index": 1,
+    "threads": 0
+  },
+  "placed": {
+    "x": -992.3405325947754,
+    "y": 109.42782566129398,
+    "index": 1
+  }
+}

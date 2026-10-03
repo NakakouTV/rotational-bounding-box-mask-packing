@@ -1,0 +1,374 @@
+[
+  {
+    "key": "1",
+    "char": "日",
+    "bounds": [
+      224,
+      162,
+      256,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "2",
+    "char": "本",
+    "bounds": [
+      222,
+      164,
+      257,
+      196
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "3",
+    "char": "語",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "4",
+    "char": "文",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "5",
+    "char": "字",
+    "bounds": [
+      222,
+      162,
+      258,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "6",
+    "char": "画",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "7",
+    "char": "像",
+    "bounds": [
+      222,
+      164,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "8",
+    "char": "表",
+    "bounds": [
+      222,
+      163,
+      257,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "9",
+    "char": "示",
+    "bounds": [
+      222,
+      164,
+      257,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "a",
+    "char": "実",
+    "bounds": [
+      222,
+      162,
+      257,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "b",
+    "char": "験",
+    "bounds": [
+      222,
+      163,
+      258,
+      196
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "c",
+    "char": "大",
+    "bounds": [
+      223,
+      163,
+      259,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "d",
+    "char": "小",
+    "bounds": [
+      222,
+      163,
+      257,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "e",
+    "char": "上",
+    "bounds": [
+      222,
+      163,
+      258,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "f",
+    "char": "下",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "g",
+    "char": "左",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "h",
+    "char": "右",
+    "bounds": [
+      222,
+      163,
+      258,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "i",
+    "char": "天",
+    "bounds": [
+      222,
+      163,
+      257,
+      195
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "j",
+    "char": "地",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "k",
+    "char": "山",
+    "bounds": [
+      222,
+      162,
+      257,
+      199
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "l",
+    "char": "川",
+    "bounds": [
+      223,
+      161,
+      258,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "m",
+    "char": "森",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "n",
+    "char": "林",
+    "bounds": [
+      223,
+      164,
+      258,
+      196
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "o",
+    "char": "水",
+    "bounds": [
+      223,
+      164,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "p",
+    "char": "火",
+    "bounds": [
+      223,
+      162,
+      257,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "q",
+    "char": "木",
+    "bounds": [
+      223,
+      164,
+      258,
+      196
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "r",
+    "char": "金",
+    "bounds": [
+      222,
+      164,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "s",
+    "char": "土",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "t",
+    "char": "月",
+    "bounds": [
+      222,
+      162,
+      257,
+      198
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "u",
+    "char": "星",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  },
+  {
+    "key": "v",
+    "char": "空",
+    "bounds": [
+      222,
+      163,
+      258,
+      197
+    ],
+    "differentPixels": 0,
+    "missingPixels": 0
+  }
+]
